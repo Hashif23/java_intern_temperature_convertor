@@ -1,5 +1,5 @@
 # Temperature convertor
-temperature converter using java made for my intern program.
+Temperature converter using java made for my intern program.
 
 # Java Temperature Converter
 
