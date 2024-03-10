@@ -1,35 +1,10 @@
-# temperature-converter-java
-temperature-converter using java made for my intern prog
-
-Certainly! Here's a basic README template for your Java temperature converter program:
-
----
+# Temperature convertor
+temperature converter using java made for my intern program.
 
 # Java Temperature Converter
 
-This Java program is a simple temperature converter that allows users to convert temperatures between Fahrenheit, Celsius, and Kelvin units. It takes a temperature value and units from the user and converts it to another unit based on their input.
+This Java program is a simple temperature converter that allows users to convert temperatures between Fahrenheit, Celsius, and Kelvin units. It takes a temperature value from the user and converts it to another unit based on their input.
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/psyclox/java-temperature-converter.git
-   ```
-
-2. Compile the Java file:
-
-   ```bash
-   javac Main.java
-   ```
-
-3. Run the program:
-
-   ```bash
-   java Main
-   ```
-
-4. Follow the prompts to input the temperature value and units to convert from and to.
 
 ## How it Works
 
